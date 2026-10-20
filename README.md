@@ -9,3 +9,4 @@
 * https://strongdog-1.vercel.app
 * https://mathcord.com
 * https://strongdog.com
+* https://skiingbeast2025.github.io/strongcatxd/
